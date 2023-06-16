@@ -5,7 +5,6 @@ int Noven=15; // fournoi
 int Ndeliverer=10; //dianomeis
 int Npacker=2; //upalliloi paretarismatos
 
-
 int success=0; //epituximenes tis paraggelias
 int failure=0; //apotuximenes tis paraggelias
 int earnings=0;
