@@ -96,7 +96,7 @@ if (Ncust==0){ // an o arithmos p3latwn einai 0
         printf("The average pizza colding time was %f and the max time was %i.\n",avg_cold,max_cold);
 
 
-pthread_mutex_destroy (&lockcook)
+        pthread_mutex_destroy (&lockcook)
         pthread_mutex_destroy (&lockoven);
         pthread_mutex_destroy (&lockdel);
         pthread_mutex_destroy (&lockearn);
